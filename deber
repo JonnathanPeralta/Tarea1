@@ -1,0 +1,26 @@
+{
+"Estudiantes" : [
+{"id" : 1, "nombre" : "Karol" , "apellido" : "Peñafiel", "telefono" : "2242386" , "fechanacimiento" : "2000" },
+{"id" : 2, "nombre" : "Bryan" , "apellido" : "Romero", "telefono" : "2242334" , "fechanacimiento" : "1999" },
+{"id" : 3, "nombre" : "Eric" , "apellido" : "Peralta", "telefono" : "2242345" , "fechanacimiento" : "1999" },
+{"id" : 4, "nombre" : "Agustin" , "apellido" : "Ortega", "telefono" : "2242377" , "fechanacimiento" : "1998" },
+{"id" : 5, "nombre" : "Freddy" , "apellido" : "Herrera", "telefono" : "2242300" , "fechanacimiento" : "1999" },
+{"id" : 6, "nombre" : "Geovanny" ,"apellido" : "Herrera", "telefono" : "2242388" , "fechanacimiento" : "1999" },
+{"id" : 7, "nombre" : "Mercy" , "apellido" : "Sumba", "telefono" : "2242322" , "fechanacimiento" : "1999" },
+{"id" : 8, "nombre" : "Lorena" , "apellido" : "Dutan", "telefono" : "2242399"" , "fechanacimiento" : 1999" },
+{"id" : 9, "nombre" : "Esthela" , "apellido" : "Lata", "direccion" : "2242377" ,"fechanacimiento" : "1999" },
+{"id" : 10, "nombre" : "Guadalupe" , "apellido" : "Astudillo", "telefono" : "2242366" , "fechanacimiento" : "1999" },
+{"id" : 11, "nombre" : "Jefferson" , "apellido" : "Trelles", "telefono" : "2245386" , "fechanacimiento" : "1999" },
+{"id" : 12, "nombre" : "Jonnathan" , "apellido" : "Peralta", "telefono" : "3045386" ,"fechanacimiento" : "1999" },
+{"id" : 13, "nombre" : "Jaime" , "apellido" : "Sumba", "telefono" : "3042386" , "fechanacimiento" : "1997" },
+
+]
+" Profesores" :[
+
+{"id" : 1, "nombre" : "Mauricio" , "apellido" : "Palomino", "telefono" : "2242386" , "fechanacimiento" : "1984" },
+{"id" : 2, "nombre" : "Adrian" , "apellido" : "Guzman", "telefono" : "2242386" , "fechanacimiento" : "1985" },
+{"id" : 3, "nombre" : " Alexandra", "apellido" : "Molina", "telefono" : "2242386" , "fechanacimiento" : "1989" },
+{"id" : 4, "nombre" : "Juan Pablo" , "apellido" : "Araujo", "telefono" : "2442386" , "fechanacimiento" : "1945" },
+{"id" : 5, "nombre" : "Cristina" , "apellido" : "Cuenca", "telefono" : "2542386" , "fechanacimiento" : "1945" },
+{"id" : 6, "nombre" : "Javier" ,"apellido" : "Romero", "telefono" : "2242386" , "fechanacimiento" : "1985" },
+]
